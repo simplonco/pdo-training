@@ -3,6 +3,12 @@
 
 ![ ](pdo_title.jpg)
 
+## Training
+
+* [MySQL II](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
+
+> *[View MYSQL I (php)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
+
 ##Exercises
 * [MySQL CRUD](https://github.com/simplonco/php-training-mysql) _Understanding the database_
 * [Authentification](https://github.com/simplonco/php-challenge-auth) _Create a user system_
