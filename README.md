@@ -4,8 +4,7 @@
 ## Training
 
 * [MySQL II](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
-
-> *[View MYSQL I (php)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
+> Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
 
 ##Exercises
 * [MySQL CRUD](https://github.com/simplonco/php-training-mysql) _Understanding the database_
