@@ -1,5 +1,5 @@
-#PDO
-> [Training](https://github.com/simplonco/training) PDO 
+# PDO
+>_[Training](https://github.com/simplonco/training) / [PHP](https://github.com/simplonco/php-training) / PDO_
 
 ## Training
 
