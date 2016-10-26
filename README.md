@@ -1,7 +1,7 @@
-# PDO
+# PHP PDO
 >_[Training](https://github.com/simplonco/training) / [PHP](https://github.com/simplonco/php-training) / PDO_
 
-## Training
+## Courses
 
 > Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
 
