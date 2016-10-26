@@ -17,8 +17,6 @@
 * [CRUD - 2](https://github.com/simplonco/php-exercises-crud2) _CRUD parti two_ :fr:
 * [CRUD - FINAL](https://github.com/simplonco/php-exercises-crudTP) _CRUD final TP_ :muscle: :fr:
 
-_To be continued.._
-
 ## Projects
 
 > Long project activity, without tutorial, but some functional specifications, to engage students autonomy
@@ -31,3 +29,5 @@ _To be continued.._
 
 * [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
+
+_To be continued.._
