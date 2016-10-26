@@ -5,7 +5,7 @@
 
 > Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
 
-* `PDF` [MySQL II (PDO)](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
+* `pdf` [MySQL II (PDO)](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
 
 ## Exercises
 
