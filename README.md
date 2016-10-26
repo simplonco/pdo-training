@@ -3,11 +3,16 @@
 
 ## Training
 
+> Root of GitLab repository for a technology - modules
+
 * `PDF` [MySQL II (PDO)](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
 
 > Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
 
 ## Exercises
+
+> Exercices given without automated validation, with just a short subject / explanation
+
 * [MySQL CRUD](https://github.com/simplonco/php-training-mysql) _Understanding the database_ :fr:
 * [Authentification](https://github.com/simplonco/php-challenge-auth) _Create a user system_ :fr:
 * [CRUD - 1](https://github.com/simplonco/php-exercises-crud1) _CRUD parti one_ :fr:
@@ -18,9 +23,13 @@ _To be continued.._
 
 ## Projects
 
+> Long project activity, without tutorial, but some functional / technical specifications, to engage students autonomy
+
 `no projects`
 
 ## Resources
+
+> Currated list of external urls - ressources
 
 * [Concevez votre site web avec PHP et MySQL](https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql) :fr:
 * [Programmez en orienté objet en PHP](https://openclassrooms.com/courses/programmez-en-oriente-objet-en-php) :fr:
