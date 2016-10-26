@@ -17,12 +17,6 @@
 * [CRUD - 2](https://github.com/simplonco/php-exercises-crud2) _CRUD parti two_ :fr:
 * [CRUD - FINAL](https://github.com/simplonco/php-exercises-crudTP) _CRUD final TP_ :muscle: :fr:
 
-## Projects
-
-> Long project activity, without tutorial, but some functional specifications, to engage students autonomy
-
-`no projects`
-
 ## Resources
 
 > Currated list of external ressources
