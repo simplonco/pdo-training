@@ -1,0 +1,15 @@
+[submodule "exercises/php-training-mysql"]
+	path = exercises/php-training-mysql
+	url = https://github.com/simplonco/php-training-mysql
+[submodule "exercises/php-challenge-auth"]
+	path = exercises/php-challenge-auth
+	url = https://github.com/simplonco/php-challenge-auth
+[submodule "exercises/php-exercises-crud1"]
+	path = exercises/php-exercises-crud1
+	url = https://github.com/simplonco/php-exercises-crud1
+[submodule "exercises/php-exercises-crud2"]
+	path = exercises/php-exercises-crud2
+	url = https://github.com/simplonco/php-exercises-crud2
+[submodule "exercises/php-exercises-crudTP"]
+	path = exercises/php-exercises-crudTP
+	url = https://github.com/simplonco/php-exercises-crudTP
