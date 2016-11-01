@@ -3,9 +3,9 @@
 
 ## Courses
 
-> Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/training/Tutoriel-MySQL-Introduction.pdf)*
+> Before view *[MYSQL I (PHP)](https://github.com/simplonco/php-training/blob/master/courses/Tutoriel MySQL - Introduction.pdf)*
 
-* `pdf` [MySQL II (PDO)](https://github.com/simplonco/pdo-training/blob/master/training/Tutoriel-MySQLII-PDO.pdf) _MySQL with PDO_
+* `pdf` [MySQL II (PDO)](https://github.com/simplonco/pdo-training/blob/master/courses/Tutoriel MySQL II - PDO.pdf) _MySQL with PDO_
 
 ## Exercises
 
